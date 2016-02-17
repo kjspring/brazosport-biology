@@ -8,7 +8,7 @@
 - Chapter 2: 
 - 
 ### Unit 2: Growing Microbes
-- 
+ 
 ### Unit 3: Microscopy
 
 ### Unit 4: Species Identification
