@@ -1,6 +1,6 @@
 ## Synopsis
 
-This repository contains the information used to teach Brazosport College students techniques in microbiology. This includes a laboratory manual, project instructions, lab protocols, 
+This repository contains the information used to teach Brazosport College students techniques in microbiology. This includes a laboratory manual, project instructions, lab protocols, and laboratory simulations.
 
 ## Motivation
 
